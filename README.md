@@ -1,9 +1,9 @@
-#Project Title: Capstone Project for TNMT Retail
+# Project Title: Capstone Project for TNMT Retail
 
-#Objective: 
+# Objective: 
 To provide comprehensive and actionable insights into TNMT Retail's sales performance by analyzing the dataset and generating key metrics and reports. This will support strategic decision-making by the Sales Director and enhance the understanding of revenue drivers across different dimensions.
 
-#Key Deliverables:
+# Key Deliverables:
 
 1. Order-Level Calculations:
    - Calculate Revenue for each order.
